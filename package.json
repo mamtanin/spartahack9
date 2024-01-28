@@ -17,6 +17,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"fs": "^0.0.1-security",
 		"uploader": "^3.48.3"
 	}
 }
